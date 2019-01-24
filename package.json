@@ -1,0 +1,29 @@
+{
+  "name": "auth0-testcafe-login",
+  "version": "1.0.0",
+  "description": "A sample TestCafe script to test Auth0 login",
+  "author": "Shayan Memari",
+  "license": "ISC",
+  "main": "auth0-login.js",
+  "dependencies": {
+    "dotenv": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShayMe21/auth0-testcafe-login.git"
+  },
+  "keywords": [
+    "testcafe",
+    "auth0",
+    "testing",
+    "login"
+  ],
+  "bugs": {
+    "url": "https://github.com/ShayMe21/auth0-testcafe-login/issues"
+  },
+  "homepage": "https://github.com/ShayMe21/auth0-testcafe-login#readme"
+}
